@@ -12,7 +12,6 @@ from sklearn.gaussian_process.kernels import RBF
 from sklearn.gaussian_process import GaussianProcessRegressor
 from sklearn.gaussian_process.kernels import Hyperparameter
 import matplotlib.pyplot as plt
-from Acquisition_Function import EI_MAX, EI_MIN
 import pyDOE2
 
 
